@@ -1,1 +1,16 @@
-test
+# env setting ########################################
+# ubuntu 22.04
+# postgresql 14
+#   psycopg2: 설치 필요할 수도 있음(sqlalchemy)
+
+# python 3.11
+
+
+# db setting #########################################
+# database structure
+# database: rearfold
+#   schema: backend
+#       table: admin
+
+# python pkg #########################################
+sqlalchemy
