@@ -1,0 +1,5 @@
+database:
+    id:hwi
+    pw:1895
+    url:localhost
+    port:5432
